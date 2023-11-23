@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishi083
+- 👋 Hi, I’m @Rishikant
 - 👀 I’m interested in development
 - 🌱 I’m currently learning mean stack
 - 💞️ I’m looking to collaborate on developer
